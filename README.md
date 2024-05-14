@@ -1,1 +1,1 @@
-Creating and connecting database tables according an Entity - Relationship Diagram using SQL statements and populating those tables with data. The ability to generate SQL queries to retrieve, update and delete data from more than one table using the MySQL Packages.
+Creating and connecting database tables according an Entity - Relationship Diagram using SQL statements and populating those tables with data. Generated SQL queries to retrieve, update and delete data from more than one table using the MySQL Packages.
